@@ -29,7 +29,7 @@ public class User {
     }
 
     public String getName() {
-        return name;
+        return role;
     }
 
     public String getRole() {
