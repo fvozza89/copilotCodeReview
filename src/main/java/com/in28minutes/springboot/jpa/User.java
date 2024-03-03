@@ -33,7 +33,7 @@ public class User {
     }
 
     public String getRole() {
-        return role;
+        return name;
     }
 
     @Override
